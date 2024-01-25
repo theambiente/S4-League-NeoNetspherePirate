@@ -9,5 +9,4 @@ Features :
 - Userdata 
 - Userinfo 
 - EnchantSystem
-- Randomshop
 - Chaser,BattleRoyal,DeathMatch,Touchdown,Captain
